@@ -3,7 +3,11 @@ Hi there, I’m Omer! 👋
 🌱 About Me
 
 I am passionate about coding, a dedicated Java enthusiast, and curious about exploring other technologies. I have been working professionally with software technologies for over 10 years, with a strong focus on Java and related frameworks. 
-My expertise includes Spring Boot, Hibernate, and messaging queues like RabbitMQ and Kafka. I’m always eager to learn new tools and currently expanding my knowledge in Node.js and React. With experience in leading development teams, I focus on delivering innovative software solutions while maintaining high-quality standards and ensuring continuous improvement.
+
+My expertise includes Spring Boot, Hibernate, and messaging queues like RabbitMQ and Kafka. I’m always eager to learn new tools and currently expanding my knowledge in Node.js and React. 
+
+With experience in leading development teams, I focus on delivering innovative software solutions while maintaining high-quality standards and ensuring continuous improvement.
+
 🚀 Technologies & Tools
 
 	•	Java, Spring Boot – Core languages and frameworks for backend services
